@@ -1,5 +1,5 @@
 # CRUD Application using Vue, Express & Supabase
 
-Author: 
+Authors: 
 - Evangeline Cosep
-- Geline De Guzman
+- Geline Mae De Guzman
